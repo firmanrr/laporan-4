@@ -22,6 +22,17 @@ ul {
     background-color: #111;
   }
   
-  .active {
+.active {
     background-color: rgb(70, 70, 71);
-  }
+}
+.container {
+    background-color: rgb(169, 166, 166);
+    text-align: center;
+    padding: 20px;
+}
+.container img {
+    border-radius: 20px;
+}
+.container img:hover {
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
