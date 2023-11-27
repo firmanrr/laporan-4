@@ -38,7 +38,7 @@ ul {
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 div.gallery {
-    margin: 5px;
+    margin: 20px 30px;
     border: 1px solid #ccc;
     float: left;
     width: 180px;
