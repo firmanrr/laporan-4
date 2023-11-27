@@ -29,6 +29,7 @@ ul {
     background-color: rgb(169, 166, 166);
     text-align: center;
     padding: 20px;
+    color: #111;
 }
 .container img {
     border-radius: 20px;
@@ -36,3 +37,19 @@ ul {
 .container img:hover {
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
